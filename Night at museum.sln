@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night at museum", "Night at museum.csproj", "{B20EB737-45C7-98B9-C756-47D36E64B865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night at museum.Editor", "Night at museum.Editor.csproj", "{96BED459-C948-81A1-C095-0B07CD946A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20EB737-45C7-98B9-C756-47D36E64B865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20EB737-45C7-98B9-C756-47D36E64B865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20EB737-45C7-98B9-C756-47D36E64B865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20EB737-45C7-98B9-C756-47D36E64B865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BED459-C948-81A1-C095-0B07CD946A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BED459-C948-81A1-C095-0B07CD946A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BED459-C948-81A1-C095-0B07CD946A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BED459-C948-81A1-C095-0B07CD946A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
